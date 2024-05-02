@@ -1,7 +1,13 @@
 
 # Gustavo da Silveira Roldão
 
+Minha jornada na programação começou com uma curiosidade pelo mundo da tecnologia, sem qualquer formação formal, mergulhei de cabeça, buscando aprender por conta própria, Curso inglês há 13 anos, e atualmente estou concluindo o ensino médio.
+
+Meu primeiro contato foi com a linguagem Python, proporcionando uma base em lógica de programação. Após uma pausa voltei com os estudos focados no desenvolvimento front-end, aprimorando minhas habilidades na criação de interfaces interativas e dinâmicas. Adotei C# para o back-end, entendendo seu uso em aplicações robustas e seguras. 
+
+Em resumo, minha jornada na programação vem sendo marcada por diversidade e aprendizado constante. Desde os primeiros passos com Python até a exploração de linguagens/frameworks como Angular JS, C#, Flutter, Node JS e PHP com Laravel, para a formação de um desenvolvedor versátil e apaixonado pela busca incessante de conhecimento.
 ## Conecte-se comigo
+
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551980280868) 
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavodsroldao/)
